@@ -1,0 +1,1 @@
+root      4448  0.0  0.0   7848   880 pts/1    S+   14:44   0:00 grep --color=auto kernel

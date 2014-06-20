@@ -1,0 +1,439 @@
+    1  aptitude update
+    2  rm /var/lib/apt/lists/lock 
+    3  rm /var/lib/dpkg/lock 
+    4  aptitude update
+    5  cd '/home/equipo17/Escritorio/nvidia' 
+    6  dpkg -i *.deb
+    7  apt-get -f install
+    8  dpkg -i *.deb
+    9  nvidia-xconfig 
+   10  cp xorg.conf /etc/X11/
+   11  update-initramfs -u
+   12  aptitud install git
+   13  aptitude install git
+   14  ls
+   15  cd ..
+   16  rm -rf cursoasl/
+   17  exit
+   18  ls
+   19  su
+   20  su
+   21  aptitude show sl
+   22  Aptitude search perl >> paytom
+   23  Aptitude search perl >> paquete
+   24  ls
+   25  ls
+   26  ls
+   27  touch permiso.txt
+   28  ls
+   29  chmod 777 permiso.txt 
+   30  chown equipo17  permiso.txt
+   31  ls
+   32  chown permiso.txt
+   33  chown equipo17.equipo17 permiso.txt
+   34  tailf /var/log/syslog
+   35  tailf /var/log
+   36  tailf /var/lo
+   37  tailf /var/lo 
+   38  tailf /var/log 
+   39  tailf /var/log/syslog
+   40  tailf /var/log/  
+   41  clear
+   42  ps -aix|grep writer 
+   43  ps -aux|grep writer 
+   44  kill -9 4329 
+   45  w 
+   46  ps -aux|grep cunaguaro 
+   47  kill -9 4355 
+   48  kill -9 3461 
+   49  ps -aux|grep cunaguaro 
+   50  top 
+   51  free
+   52  cat /proc cpuinfo
+   53  cat |pro cpuinfo
+   54  cat |proc cpuinfo
+   55  cat |proc cpu info
+   56  cat /proc/cpuinfo
+   57  cat /proc/meminfo 
+   58  cat /proc/meminfo
+   59  history  
+   60  history  /grep cpuinfo 
+   61  history >> consola.txt 
+   62  history >> 
+   63  history >> consola.txt 
+   64  mkdir nueva
+   65  ls
+   66  cp -R/nueva otra
+   67  cp -R/nueva o
+   68  mkdir n
+   69  ls
+   70  cp -R/n h
+   71  cp -R/ n h
+   72  cp -R /n h
+   73  cp -R n/ h
+   74  ls
+   75  cd a/
+   76  cd n/
+   77  ls
+   78  touch 1txt
+   79  touch 1.txt
+   80  cp 1.txt 2.txt
+   81  ls
+   82  ls
+   83  mv pepitosdelospalotes.txt /home/equipo17 .
+   84  mv pepitosdelospalotes.txt /home/equipo17/n/
+   85  mv pepitosdelospalotes.txt /home/equipo17/h/
+   86  ls
+   87  ls
+   88  ls /home/equipo17/h/
+   89  ls
+   90  uname 
+   91  uname -a
+   92   uptime 
+   93  date
+   94  vmstat 
+   95  ls
+   96  mv 1txt 2.txt /home/equipo17/h/
+   97  ls
+   98  du -sh /
+   99  ls
+  100  ls
+  101  ls
+  102  git clone https://github.com/julioh/cursoasl.git
+  103  ls
+  104  cd cursoasl/
+  105  ls
+  106  cd cursoasl
+  107  ls
+  108  su
+  109  aptitude show lxrandr
+  110  aptitude install lxrandr
+  111  remu randr
+  112  aptitude purgue lxrandr
+  113  aptitude purge lxrandr
+  114  aptitude install lxrandr
+  115  aptitude remove lxrandr
+  116  aptitude up
+  117  aptitude install lxrandr
+  118  aptitude remove --purge lxrandr
+  119  aptitude install bb -y
+  120  nano /etc/apt/source.txt
+  121  nano /etc/apt/sources.list
+  122  aptitude update
+  123  aptitude install locate 
+  124  update-desktop-database 
+  125  aptitude install nss-updatedb
+  126  ls
+  127  aptitud show
+  128  aptitud install Descarga
+  129  dpkg -i openproj
+  130  dpkg -i |grep openproj
+  131  dpkg -i | grep openproj
+  132  dpkg -l | grep openproj
+  133  apt-get sourse sl
+  134  apt-get sourses sl
+  135  apt-get soursce sl
+  136  apt-get source sl
+  137  aptitud install dpkg-sources 
+  138  aptitude install dpkg-dev
+  139  apt-get source sl
+  140  ls
+  141  aptitude install Descarga
+  142  aptitude update
+  143  apt-get source sl
+  144  apt-get sources sl
+  145  nano /etc/apt/sources .list
+  146  nano /etc/apt/sources.list
+  147  aptitude update
+  148  apt-get source sl
+  149  cd sl
+  150  ls
+  151  cd sl-3.03
+  152  nano sl.txt
+  153  aptitude searce debuild
+  154  search debuild
+  155  search debuild-pbuilder -us -uc
+  156  cd
+  157  search debuild-pbuilder -us -uc
+  158  cd /home
+  159  search debuild-pbuilder -us -uc
+  160  cd /equipo17
+  161  ls
+  162   debuild-pbuilder -us -uc
+  163  adtitude search debuil
+  164  adtitude search debuil-us -uc
+  165  aptitude search debuild -us -uc
+  166  aptitude install pdebuild-crooss
+  167  aptitude search debuild 
+  168  aptitude install pdebuild-crooss
+  169  aptitude search debuild 
+  170  aptitude install pdebuild-croos
+  171  cd equipo17/
+  172  ls
+  173  cd sl-3.03/
+  174  debuild-pbuilder -us -uc
+  175  ls
+  176  aptitude install autopoint autotools-dev bcc gcc gcc-4.4 gcc-4.6 gcc-4.7 libmail-sendmail-perl manpages-dev tcc build-essential
+  177  apt-get source sl
+  178  ls
+  179  cd sl.h
+  180  cd sl-3.03
+  181  cd ..
+  182  dpkg-buildpackage -us -uc
+  183  dpkg -source --commit
+  184  dpkg-source --commit
+  185  dpkg-buildpackage -us -uc
+  186  cd ..
+  187  aptitude remove --purge sl
+  188  ls
+  189  dpkg -i *.deb
+  190  aptitude install debmirror
+  191  debmirror --host=http.us.debian.org --root=debian --cleanup --nosource --ignore-missing-release --progress --ignore-release-gpg --arch=i386,amd64 --dist=wheezy,jessie --method=http --section=main,contrib,non-free /var/www/debian
+  192  mkdir paquete
+  193  mkdir paquete1
+  194  cd paquete1
+  195  apt-get source bmon
+  196  ls
+  197  cd bmon-2.0.1
+  198  cd ..
+  199  ls
+  200  cd bmon-2.0.1/
+  201  cd src
+  202  ls
+  203  nano out_ascii.c 
+  204  nano out_ascii.c 
+  205  dpkg-buildpackage -us -uc
+  206  dpkg-source --commit
+  207  dpkg-buildpackage -us -uc
+  208  cd ..
+  209  dpkg-buildpackage -us -uc
+  210  out_causer
+  211  out_course
+  212  nano out_ascii.c 
+  213  cd src
+  214  nano out_curses.c
+  215  dpkg-buildpackage -us -uc
+  216  cd ..
+  217  dpkg-buildpackage -us -uc
+  218  cd ..
+  219  dpkg -i bmon_2.0.1-3_amd64.deb 
+  220  bmon
+  221  adduser lab
+  222  ls /home
+  223  ls
+  224  deluser lab javiergimenez
+  225  ls
+  226  lab
+  227  ls
+  228  adduser lab
+  229  deluser lab
+  230  adduser lab
+  231  lab
+  232  passwd lab
+  233  ps -aux | gret tty
+  234  ps -aux | grep tty
+  235  kill -9 3408
+  236  ls
+  237  ps -aux | grep tty
+  238  ps -aux | grep tty
+  239  ps -aux | grep tty
+  240  kill -9 2498 2499
+  241  ps -aux | grep tty
+  242  ps -aux | grep tty
+  243  ps -aux | grep tty
+  244  kill -9 6144 6111
+  245  ps -aux | grep tty
+  246  nano /etc/group
+  247  visudo
+  248   fdisk -l
+  249  cfdisk
+  250   fdisk -l
+  251   fdisk -l
+  252  canaima-desarrollador
+  253  canaima-aserca 
+  254  aptitude search canaima-aserca 
+  255  exit
+  256  apt-gep source canaima-notas-gnome
+  257  apt-get source canaima-notas-gnome
+  258  cd canaima-notas-gnome
+  259  ls
+  260  cd canaima-notas-gnome-4.0/
+  261  nano canaima_notas_gnome.py 
+  262  LS
+  263  ls
+  264  aptitude remove --pulge 
+  265  aptitude remove --purge 
+  266  makeinstall
+  267  make install
+  268  aptitude remove --purge canaima-notas-gnome 
+  269  make install
+  270  canaima-notas-gnome 
+  271  ls
+  272  ls
+  273  ls
+  274  update db
+  275  cd canaima-gnome
+  276  ls
+  277  cd ..
+  278  ls
+  279  git clone https://github.com/javieriadey/practicacurso.git
+  280  cd practicacurso/
+  281  mv /home/equipo17/canaima-notas-gnome-4.0/ .
+  282  ls
+  283  add ..
+  284  git add .
+  285  git commint -a
+  286  git commit -a
+  287  git push
+  288  aptitude install canaima-semilla
+  289   canaima-semilla construir --medio=iso" --arquitectura="i386" --sabor=gobernacion 
+  290  history
+  291  c-s-guil
+  292  c-s -guil
+  293  c-s -gui
+  294  c-s-gui
+  295  c-s-gui
+  296  c-s-gui
+  297  c-s-gui
+  298  git clone https://github.com/julioh/cursoasl.git
+  299  wget -r http://172.16.1.63/deb
+  300  ls
+  301  ls
+  302  cd /usr/share/canaima-semilla/
+  303  ls profiles/
+  304  cp -R primerabase/ gobernacion 
+  305  cp -R primera-base/ gobernacion 
+  306  ls
+  307  cd profiles/
+  308  cp -R primera-base/ gobernacion 
+  309  ls
+  310  cd gobermacion
+  311  cd gobernacion
+  312  ls
+  313  nano profile.conf 
+  314  nano profile.conf 
+  315  aptitude search apt-gep source canaima-acerca
+  316  git clone https://github.com/javieriadey/practicacurso.git
+  317  ls
+  318  pwd
+  319  cd ..
+  320  cd control
+  321  c-d descargar  --proyecto-canaima-aserca
+  322  c-d crear proyecto prueba
+  323  c-d crear-proyecto prueba
+  324  ls
+  325  cd practicacurso
+  326  ls
+  327  canaima-semilla construir --medio=iso" --arquitectura="i386" --sabor=gobernacion 
+  328  canaima-semilla construir --medio=iso" --arquitectura="i386" --sabor=gobernacion 
+  329  ps -aux | gret s-c-gui
+  330  ps -aux | gret s-c-gui
+  331  ps -aux | gret c-s-gui
+  332  ps -aux | grep c-s-gui
+  333  kill -9 9355 9413
+  334  ps -aux | grep c-s-gui
+  335  ps -aux | grep c-s-gui
+  336  git clone https://github.com/julioh.git
+  337  git clone https://github.com/julioh/cursoasl.git
+  338  aptitude search canaima-desarrollo
+  339  aptitude search canaima-desarrollador
+  340  aptitude install canaima-
+  341  aptitude  canaima-desarrollador
+  342  aptitude install canaima-desarrollador
+  343  canaima-desarrollador
+  344  mkdir canaima
+  345  cd canaima
+  346  canaima-desarrollador
+  347  ls -la
+  348  su
+  349  ifconfig
+  350  ipconfig
+  351  ifconfig 
+  352  ifconfig 
+  353  ifconfig 
+  354  ifconfig 
+  355  ifconfig 
+  356  ifconfig 
+  357  sl
+  358  sl
+  359  ls
+  360  ls
+  361  ls
+  362  cd actividadcursoasl/
+  363  ls
+  364  mkdir cunaguaro
+  365  ls
+  366  toursh
+  367  toush
+  368  touch curso1.txt
+  369  touch curso2.txt 
+  370  touch curso3.txt 
+  371  touch curso4.txt 
+  372  touch curso5.txt 
+  373  ls -la shmot
+  374  ls -la shmod
+  375  ls -la chmod
+  376  ls -la chmod
+  377  ls -la chmop
+  378  ls -la chmot
+  379  ls -la chmod curso1.txt 
+  380  ls
+  381   chmod curso1.txt chmod 7-4-1 curso1.txt
+  382  chnod --help
+  383  chmod 777 
+  384  chmod 777 curso1.txt 
+  385  ls -la
+  386  chmod 077 curso1.txt 
+  387  ls -la
+  388  chmod 741 curso1.txt 
+  389  ls -la
+  390  chmod 761 curso1.txt 
+  391  ls -la
+  392  chmod 641 curso1.txt 
+  393  ls -la
+  394  chmod 641 curso2.txt 
+  395  chmod 756 curso2.txt 
+  396  ls -la
+  397  chmod 654 curso2.txt 
+  398  ls -la
+  399  chmod 746 curso2.txt 
+  400  ls -la
+  401  chmod 756 curso2.txt 
+  402  ls -la
+  403  chmod 736 curso2.txt 
+  404  ls -la
+  405  chmod 726 curso2.txt 
+  406  ls -la
+  407  chmod 644 curso2.txt 
+  408  ls -la
+  409  chmod 726 curso2.txt 
+  410  ls -la
+  411  chmod 111 curso2.txt 
+  412  ls -la
+  413  chmod 726 curso2.txt 
+  414  chmod 111 curso3.txt 
+  415  ls -la
+  416  chmod 447 curso4.txt 
+  417  ls -la
+  418  chmod 064 curso5.txt 
+  419  ls -la
+  420  chmod 064 curso5.txt 
+  421  ls -la
+  422  ls
+  423  cd cunaguaro
+  424  pc -aux | grep >>cunaguaro.txt
+  425  cp -aux | grep >>cunaguaro.txt
+  426  ps -aux | grep >>cunaguaro.txt
+  427  ps -aux | grep >> cunaguaro.txt
+  428  ps -aux | grep cunaguaro >> cunaguaro.txt
+  429  ls
+  430  mkdir kernel
+  431  cd kernel/
+  432  ps -aux | grep kernel >> kernel.txt
+  433  ls
+  434  history
+  435  history.txt
+  436  ls
+  437  history.txt
+  438  history.txt/
+  439  history >> history.txt
